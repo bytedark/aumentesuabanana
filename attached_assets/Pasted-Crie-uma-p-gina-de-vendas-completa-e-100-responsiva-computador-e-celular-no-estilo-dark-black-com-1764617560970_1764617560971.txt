@@ -1,0 +1,53 @@
+Crie uma página de vendas completa e 100% responsiva (computador e celular) no estilo dark/black com detalhes em amarelo vibrante. Utilize estética premium, agressiva, moderna e focada em conversão. O tema é vendas diretas, urgência e autoridade.
+
+Elementos obrigatórios da página:
+	1.	Layout:
+	•	Fundo preto absoluto (#000000)
+	•	Destaques, ícones e divisores em amarelo forte (#FFD300)
+	•	Botões de compra em verde neon (#00FF66) com efeito PULSANDO a cada 1,5s
+	•	Estilo minimalista, moderno e clean, porém agressivo na conversão
+	2.	Hero (primeira dobra):
+	•	Título extremamente persuasivo e grande, no estilo copy de performance
+	•	Subtítulo curto, direto, chamando ação
+	•	Botão verde pulsando com a oferta 19,90
+	•	Animação suave de entrada
+	•	Imagem ou mockup + espaço para vídeo no centro
+	•	Texto “Últimas vagas / últimas unidades”
+	3.	Provas Sociais e Notificações:
+	•	Notificações automáticas simulando compras reais a cada 10–20 segundos (“Fulano de SP acabou de comprar!”)
+	•	Depoimentos com fotos, prints, antes e depois, comentários reais
+	•	Selos de garantia, verificado, segurança, etc.
+	4.	Sessão de prova do produto:
+	•	Antes e depois
+	•	Explicação clara de como funciona
+	•	Mini-títulos agressivos e chamativos
+	•	Dados, números, pesquisas e comprovações de eficácia
+	5.	Sessões de persuasão:
+	•	“Por que funciona?”
+	•	“O que ninguém te conta”
+	•	“O que você vai receber”
+	•	“Por que esse é o único caminho”
+	•	“Oportunidade limitada”
+	6.	Oferta e urgência:
+	•	Destaque enorme para 19,90
+	•	Botões verdes pulsando a cada sessão
+	•	Timer regressivo animado
+	•	Bandeiras aceitas e PIX em destaque
+	•	Garantia incondicional
+	7.	Vídeo obrigatório:
+	•	Player grande, responsivo
+	•	Controles minimalistas
+	•	Chamada para ação embaixo com botão verde pulsando
+	8.	Rodapé:
+	•	Links essenciais (termos, política, suporte)
+	•	Mais um botão verde pulsando
+
+⸻
+
+Instruções de Copywriting:
+	•	Escreva tudo com narrativa persuasiva e emocional
+	•	Use gatilhos: urgência, prova, autoridade, desejo, escassez
+	•	Tons fortes, diretos e convictos
+	•	Estilo “Black Marketing”: agressivo mas profissional
+	•	Sempre mantenha botões pulsando visíveis
+	•	Dê título + subtítulo + bullets + micro-copy de CTA
